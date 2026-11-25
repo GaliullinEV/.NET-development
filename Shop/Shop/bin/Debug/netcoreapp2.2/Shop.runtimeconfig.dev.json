@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zheny\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zheny\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ],
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": true,
+      "System.StartupHookProvider.IsSupported": true
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\.NET-development\\PingPong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|H:\\.NET-development\\PingPong\\itprogerapp\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|solutionrelative:itprogerapp\\authform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|H:\\.NET-development\\PingPong\\itprogerapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|solutionrelative:itprogerapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|H:\\.NET-development\\PingPong\\itprogerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC54178-6AE2-4567-A492-70F6C178DF7C}|ItprogerApp\\ItprogerApp.csproj|solutionrelative:itprogerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\.NET-development\\PingPong\\ItprogerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ItprogerApp\\Program.cs",
+              "ToolTip": "H:\\.NET-development\\PingPong\\ItprogerApp\\Program.cs",
+              "RelativeToolTip": "ItprogerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T08:57:13.663Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthForm.Designer.cs",
+              "DocumentMoniker": "H:\\.NET-development\\PingPong\\ItprogerApp\\AuthForm.Designer.cs",
+              "RelativeDocumentMoniker": "ItprogerApp\\AuthForm.Designer.cs",
+              "ToolTip": "H:\\.NET-development\\PingPong\\ItprogerApp\\AuthForm.Designer.cs",
+              "RelativeToolTip": "ItprogerApp\\AuthForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T08:57:14.038Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "H:\\.NET-development\\PingPong\\ItprogerApp\\DB.cs",
+              "RelativeDocumentMoniker": "ItprogerApp\\DB.cs",
+              "ToolTip": "H:\\.NET-development\\PingPong\\ItprogerApp\\DB.cs",
+              "RelativeToolTip": "ItprogerApp\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T08:57:14.054Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
